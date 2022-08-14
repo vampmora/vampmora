@@ -1,5 +1,5 @@
 Hi 👋
-<!--
+
 
 <h1 align="center">Hi 👋, I'm Amr Elmansoudy</h1>
 <h3 align="center">I'm a passionate frontend developer based in Canada 🍁. I describe myself as a developer who loves coding, open source, and the web platform ❤️</h3>
