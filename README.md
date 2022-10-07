@@ -1,6 +1,6 @@
 Hi 👋
 
-<!--
+
 
 <img src='https://virtualwindow.com/wp-content/uploads/2015/09/DKC-Web-Design-Banner.jpg' alt=""></img>
 <h1 align="center">Hi 👋, I'm Amr Elmansoury</h1>
@@ -39,7 +39,7 @@ Hi 👋
 -->
 
 
-
+<!--
 **vampmora/vampmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
