@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/mora123456" target="blank"><img src="https://img.shields.io/twitter/follow/mora123456?logo=twitter&style=for-the-badge" alt="mora123456" /></a> </p>
 
 - 🌱 I’m currently learning **React js.**
-
+<!--
 - 👨‍💻 All of my projects are available at [/* */](/* */)
-
+-->
 - 📫 How to reach me **vampmora@gmail.com ,**
 
 <h3 align="left">Connect with me:</h3>
