@@ -1,6 +1,4 @@
-Hi 👋
-
-<!--
+ 
 
 <img src='https://virtualwindow.com/wp-content/uploads/2015/09/DKC-Web-Design-Banner.jpg' alt=""></img>
 <h1 align="center">Hi 👋, I'm Amr Elmansoury</h1>
@@ -36,7 +34,7 @@ Hi 👋
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vampmora&" alt="vampmora" /></p>
 
--->
+ 
 
 
 <!--
