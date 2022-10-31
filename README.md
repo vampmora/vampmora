@@ -18,13 +18,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vampmora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vampmora" height="30" width="40" /></a>
+
 <a href="https://twitter.com/mora123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mora123456" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amr-elmansoury-321a43117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr elmansoury" height="30" width="40" /></a>
 <!--
  <a href="https://codesandbox.com/amr-elmansoury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amr-elmansoury" height="30" width="40" /></a>
 
  <a href="https://instagram.com/codind_is_magic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codind_is_magic1" height="30" width="40" /></a>
+
+<a href="https://codepen.io/vampmora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vampmora" height="30" width="40" /></a>
 -->
 </p>
 
