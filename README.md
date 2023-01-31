@@ -14,7 +14,7 @@
 <!--
 - 👨‍💻 All of my projects are available at [/* */](/* */)
 -->
-- 📫 How to reach me **vampmora@gmail.com**,Or <button><a href='https://amrelmansoury.net/' target="_blank">Give me a visit site</a></button>
+- 📫 How to reach me **vampmora@gmail.com**,Or <button><a href='https://amrelmansoury.net/' target="blank>Give me a visit site</a></button>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
